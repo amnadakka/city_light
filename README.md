@@ -18,11 +18,11 @@ npm run preview
 
 ## النشر على GitHub Pages
 
-1. ادفع المشروع إلى مستودع اسمه **`CityLight`** (أو غيّر `base` في `vite.config.ts` ليطابق اسم المستودع).
+1. المستودع: **`city_light`** — تأكد أن `base` في `vite.config.ts` هو `/city_light/`.
 2. من إعدادات المستودع → **Pages** → Source: **GitHub Actions**.
 3. ادفع إلى `main` — سير العمل `.github/workflows/deploy.yml` سيبني وينشر تلقائياً.
 
-الموقع سيكون على: `https://<username>.github.io/CityLight/`
+الموقع: `https://amnadakka.github.io/city_light/`
 
 ## البنية
 
