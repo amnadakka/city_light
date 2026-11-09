@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" fill="none">
+  <defs>
+    <linearGradient id="g" x1="120" y1="80" x2="300" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9A56A" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#C9A56A" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 180) rotate(90) scale(220 180)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="520" fill="#F1ECE4"/>
+  <circle cx="320" cy="90" r="70" fill="#C9A56A" fill-opacity="0.08"/>
+  <circle cx="70" cy="430" r="90" fill="#C9A56A" fill-opacity="0.07"/>
+  <rect x="176" y="42" width="48" height="30" rx="5" fill="#1A1A1A"/>
+  <rect x="186" y="72" width="28" height="40" rx="5" fill="#E8E0D4"/>
+  <path d="M148 118h104c20 0 36 16 36 36v286c0 24-20 44-44 44H156c-24 0-44-20-44-44V154c0-20 16-36 36-36z" fill="url(#g)"/>
+  <path d="M148 118h104c20 0 36 16 36 36v286c0 24-20 44-44 44H156c-24 0-44-20-44-44V154c0-20 16-36 36-36z" fill="url(#glow)"/>
+  <path d="M168 168h64c10 0 18 8 18 18v36c0 10-8 18-18 18h-64c-10 0-18-8-18-18v-36c0-10 8-18 18-18z" fill="#FFFCFA" fill-opacity="0.28"/>
+  <text x="200" y="360" text-anchor="middle" fill="#FFFCFA" fill-opacity="0.75" font-family="Georgia, serif" font-size="18">CITY LIGHT</text>
+</svg>

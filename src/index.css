@@ -1,0 +1,4 @@
+/* Global reset leftovers handled in styles/tokens.css */
+#root {
+  min-height: 100vh;
+}

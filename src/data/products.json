@@ -1,0 +1,355 @@
+[
+  {
+    "id": "1",
+    "slug": "noir-city",
+    "nameAr": "نوار سيتي",
+    "descriptionAr": "عطر ليلي جريء يجمع بين العود الدافئ والفلفل الأسود، مستوحى من أضواء المدينة بعد منتصف الليل.",
+    "currency": "USD",
+    "price": 89,
+    "sizes": [
+      { "ml": 50, "price": 59 },
+      { "ml": 100, "price": 89 }
+    ],
+    "images": ["noir.svg"],
+    "accent": "#1A1A1A",
+    "badges": ["new", "exclusive"],
+    "notes": {
+      "top": ["فلفل أسود", "برغموت"],
+      "heart": ["ورد دمشقي", "توابل"],
+      "base": ["عود", "عنبر", "مسك"]
+    },
+    "rating": 4.8,
+    "reviewCount": 42,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "rose-light",
+    "nameAr": "روز لايت",
+    "descriptionAr": "باقة ورد حريرية تلامس الجلد برقة، مثالية للنهار والمناسبات الهادئة.",
+    "currency": "USD",
+    "price": 79,
+    "sizes": [
+      { "ml": 50, "price": 52 },
+      { "ml": 100, "price": 79 }
+    ],
+    "images": ["rose.svg"],
+    "accent": "#C97B8A",
+    "badges": ["new"],
+    "notes": {
+      "top": ["ليتشي", "حمضيات"],
+      "heart": ["ورد", "فاوانيا"],
+      "base": ["مسك أبيض", "خشب الصندل"]
+    },
+    "rating": 4.7,
+    "reviewCount": 38,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "slug": "amber-dusk",
+    "nameAr": "أمبر دسك",
+    "descriptionAr": "دفء العنبر الذهبي عند الغروب، بلمسة فانيلا ناعمة تدوم طويلاً.",
+    "currency": "USD",
+    "price": 85,
+    "sizes": [
+      { "ml": 50, "price": 56 },
+      { "ml": 100, "price": 85 }
+    ],
+    "images": ["amber.svg"],
+    "accent": "#C9A56A",
+    "badges": [],
+    "notes": {
+      "top": ["قرفة", "برتقال مر"],
+      "heart": ["عنبر", "تبغ حلو"],
+      "base": ["فانيلا", "تونكا", "خشب"]
+    },
+    "rating": 4.9,
+    "reviewCount": 61,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "slug": "ocean-mist",
+    "nameAr": "أوشن ميست",
+    "descriptionAr": "نسيم بحري منعش مع ملح البحر والأعشاب، خفة تذكّرك بالصباح على الكورنيش.",
+    "currency": "USD",
+    "price": 72,
+    "sizes": [
+      { "ml": 50, "price": 48 },
+      { "ml": 100, "price": 72 }
+    ],
+    "images": ["ocean.svg"],
+    "accent": "#4A6B7C",
+    "badges": [],
+    "notes": {
+      "top": ["ملح بحر", "ليمون"],
+      "heart": ["ياسمين مائي", "أعشاب"],
+      "base": ["خشب الأرز", "طحالب"]
+    },
+    "rating": 4.5,
+    "reviewCount": 27,
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "slug": "violet-hour",
+    "nameAr": "فيوليت أور",
+    "descriptionAr": "بنفسج مخملي ولمسات بودرية أنيقة، عطر المساء الهادئ.",
+    "currency": "USD",
+    "price": 76,
+    "sizes": [
+      { "ml": 50, "price": 50 },
+      { "ml": 100, "price": 76 }
+    ],
+    "images": ["violet.svg"],
+    "accent": "#7A5B8A",
+    "badges": [],
+    "notes": {
+      "top": ["بنفسج", "كمثرى"],
+      "heart": ["أيريس", "زهرة البرتقال"],
+      "base": ["مسك", "خشب الصندل"]
+    },
+    "rating": 4.6,
+    "reviewCount": 33,
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "slug": "emerald-oud",
+    "nameAr": "إميرالد عود",
+    "descriptionAr": "عود أخضر عصري بمزيج من الأعشاب العطرية والراتنجات الشرقية.",
+    "currency": "USD",
+    "price": 96,
+    "sizes": [
+      { "ml": 50, "price": 64 },
+      { "ml": 100, "price": 96 }
+    ],
+    "images": ["emerald.svg"],
+    "accent": "#3E6B5A",
+    "badges": ["exclusive"],
+    "notes": {
+      "top": ["نعناع", "هيل"],
+      "heart": ["عود أخضر", "لبان"],
+      "base": ["راتنج", "مسك", "باتشولي"]
+    },
+    "rating": 4.8,
+    "reviewCount": 19,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "7",
+    "slug": "sand-silk",
+    "nameAr": "ساند سيلك",
+    "descriptionAr": "حسية الصحراء الناعمة: جلد مدبوغ خفيف ورمل دافئ وزهر البرتقال.",
+    "currency": "USD",
+    "price": 82,
+    "sizes": [
+      { "ml": 50, "price": 54 },
+      { "ml": 100, "price": 82 }
+    ],
+    "images": ["sand.svg"],
+    "accent": "#B89A78",
+    "badges": [],
+    "notes": {
+      "top": ["زعفران", "برغموت"],
+      "heart": ["جلد", "ياسمين"],
+      "base": ["صندل", "عنبر"]
+    },
+    "rating": 4.4,
+    "reviewCount": 22,
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "slug": "crimson-musk",
+    "nameAr": "كريمسن مسك",
+    "descriptionAr": "مسك دافئ بلمسة توت أحمر، جاذبية هادئة لا تُنسى.",
+    "currency": "USD",
+    "price": 74,
+    "sizes": [
+      { "ml": 50, "price": 49 },
+      { "ml": 100, "price": 74 }
+    ],
+    "images": ["crimson.svg"],
+    "accent": "#8B3A3A",
+    "badges": ["soldout"],
+    "notes": {
+      "top": ["توت أحمر", "فلفل وردي"],
+      "heart": ["ورد تركي", "مسك"],
+      "base": ["فانيلا", "خشب الكشمير"]
+    },
+    "rating": 4.7,
+    "reviewCount": 45,
+    "inStock": false
+  },
+  {
+    "id": "9",
+    "slug": "silver-rain",
+    "nameAr": "سيلفر رين",
+    "descriptionAr": "نقاء المطر على الزجاج، عطر خفيف ومنعش بلمسة معدنية أنيقة.",
+    "currency": "USD",
+    "price": 68,
+    "sizes": [
+      { "ml": 50, "price": 45 },
+      { "ml": 100, "price": 68 }
+    ],
+    "images": ["silver.svg"],
+    "accent": "#8A8E96",
+    "badges": [],
+    "notes": {
+      "top": ["أوزون", "شاي أخضر"],
+      "heart": ["زنبق الوادي", "خزامى"],
+      "base": ["مسك شفاف", "أرز"]
+    },
+    "rating": 4.3,
+    "reviewCount": 18,
+    "inStock": true
+  },
+  {
+    "id": "10",
+    "slug": "jade-garden",
+    "nameAr": "جايد غاردن",
+    "descriptionAr": "حديقة سرية من الأوراق الخضراء والزهور البيضاء، انتعاش فاخر.",
+    "currency": "USD",
+    "price": 78,
+    "sizes": [
+      { "ml": 50, "price": 51 },
+      { "ml": 100, "price": 78 }
+    ],
+    "images": ["jade.svg"],
+    "accent": "#2F6F5E",
+    "badges": ["new"],
+    "notes": {
+      "top": ["أوراق خضراء", "ليمون"],
+      "heart": ["زنبق", "ياسمين"],
+      "base": ["طحالب", "مسك"]
+    },
+    "rating": 4.6,
+    "reviewCount": 14,
+    "inStock": true
+  },
+  {
+    "id": "11",
+    "slug": "blush-dawn",
+    "nameAr": "بلش دون",
+    "descriptionAr": "شروق وردي ناعم على الأفق، عطر أنثوي خفيف يدوم بلطف.",
+    "currency": "USD",
+    "price": 70,
+    "sizes": [
+      { "ml": 50, "price": 46 },
+      { "ml": 100, "price": 70 }
+    ],
+    "images": ["blush.svg"],
+    "accent": "#D4A09A",
+    "badges": [],
+    "notes": {
+      "top": ["خوخ", "ماندرين"],
+      "heart": ["فاوانيا", "ورد"],
+      "base": ["مسك", "خشب خفيف"]
+    },
+    "rating": 4.5,
+    "reviewCount": 29,
+    "inStock": true
+  },
+  {
+    "id": "12",
+    "slug": "midnight-sky",
+    "nameAr": "ميدنايت سكاي",
+    "descriptionAr": "سماء المدينة ليلاً: دخان خفيف، بخور، ونجومية باردة.",
+    "currency": "USD",
+    "price": 92,
+    "sizes": [
+      { "ml": 50, "price": 62 },
+      { "ml": 100, "price": 92 }
+    ],
+    "images": ["midnight.svg"],
+    "accent": "#243447",
+    "badges": ["exclusive"],
+    "notes": {
+      "top": ["بخور", "فلفل"],
+      "heart": ["لبان", "ورد أسود"],
+      "base": ["عود", "جلد", "مسك"]
+    },
+    "rating": 4.9,
+    "reviewCount": 51,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "13",
+    "slug": "ruby-bronze",
+    "nameAr": "روبي برونز",
+    "descriptionAr": "زجاجة برونزية منحوتة بأحجار ياقوت — عود كثيف ولمسة جلدية فاخرة تترك أثراً لا يُنسى.",
+    "currency": "USD",
+    "price": 128,
+    "sizes": [
+      { "ml": 50, "price": 84 },
+      { "ml": 100, "price": 128 }
+    ],
+    "images": ["ruby-bronze.jpg"],
+    "accent": "#6B4423",
+    "badges": ["new", "exclusive"],
+    "notes": {
+      "top": ["زعفران", "فلفل أسود"],
+      "heart": ["ورد تركي", "توابل"],
+      "base": ["عود", "جلد", "عنبر"]
+    },
+    "rating": 4.9,
+    "reviewCount": 12,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "14",
+    "slug": "golden-heart",
+    "nameAr": "غولدن هارت",
+    "descriptionAr": "قلب ذهبي مزخرف بجواهر حمراء — مزيج دافئ من العسل والمسك والورد الشرقي.",
+    "currency": "USD",
+    "price": 118,
+    "sizes": [
+      { "ml": 50, "price": 78 },
+      { "ml": 100, "price": 118 }
+    ],
+    "images": ["golden-heart.jpg"],
+    "accent": "#C9A56A",
+    "badges": ["new", "exclusive"],
+    "notes": {
+      "top": ["عسل", "برغموت"],
+      "heart": ["ورد شرقي", "ياسمين"],
+      "base": ["مسك", "خشب الصندل", "فانيلا"]
+    },
+    "rating": 4.8,
+    "reviewCount": 9,
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "15",
+    "slug": "minaret-oud",
+    "nameAr": "مئذنة العود",
+    "descriptionAr": "تصميم مستوحى من المئذنة بنقوش معدنية فاخرة — بخور، عود كمبودي، ولمسة راتنجية عميقة.",
+    "currency": "USD",
+    "price": 135,
+    "sizes": [
+      { "ml": 50, "price": 88 },
+      { "ml": 100, "price": 135 }
+    ],
+    "images": ["minaret-oud.jpg"],
+    "accent": "#4A3728",
+    "badges": ["new", "exclusive"],
+    "notes": {
+      "top": ["بخور", "هيل"],
+      "heart": ["عود كمبودي", "لبان"],
+      "base": ["راتنج", "باتشولي", "مسك"]
+    },
+    "rating": 5.0,
+    "reviewCount": 7,
+    "inStock": true,
+    "featured": true
+  }
+]
